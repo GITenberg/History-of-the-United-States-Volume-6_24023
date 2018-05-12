@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9609
     wikipedia: http://en.wikipedia.org/wiki/Elisha_Benjamin_Andrews
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24023#History-of-the-United-States-Volume-6
 gutenberg_bookshelf: United States
 gutenberg_issued: '2007-12-24'
 gutenberg_type: Text
